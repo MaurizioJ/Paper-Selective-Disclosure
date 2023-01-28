@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3efd3382-9692-45b5-ac48-08df05f950ed" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2AcEeYCgYcmmY7GtiNX5oIQWiCH" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/mauriziocascino/ether/truffleProject/2023_Compression_MerkleTree_Nonce&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;terminal&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;/Applications/IntelliJ IDEA.app/Contents/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3efd3382-9692-45b5-ac48-08df05f950ed" name="Changes" comment="" />
+      <created>1655300569907</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1655300569907</updated>
+      <workItem from="1655300571580" duration="230000" />
+      <workItem from="1655305407466" duration="2043000" />
+      <workItem from="1655363620989" duration="110000" />
+      <workItem from="1655363740609" duration="7348000" />
+      <workItem from="1655448868177" duration="7000" />
+      <workItem from="1655455082204" duration="207000" />
+      <workItem from="1655464176620" duration="4094000" />
+      <workItem from="1655667505001" duration="1218000" />
+      <workItem from="1655709916986" duration="8917000" />
+      <workItem from="1656064015674" duration="61000" />
+      <workItem from="1656064153943" duration="5720000" />
+      <workItem from="1656165953364" duration="1410000" />
+      <workItem from="1656244971595" duration="1210000" />
+      <workItem from="1656319457509" duration="3445000" />
+      <workItem from="1656512638200" duration="2832000" />
+      <workItem from="1657123447200" duration="8511000" />
+      <workItem from="1668874189783" duration="1268000" />
+      <workItem from="1668880661506" duration="212000" />
+      <workItem from="1668933897820" duration="1380000" />
+      <workItem from="1669459996433" duration="7000" />
+      <workItem from="1669460087726" duration="5665000" />
+      <workItem from="1669536338187" duration="6052000" />
+      <workItem from="1669546812332" duration="1119000" />
+      <workItem from="1669723528027" duration="2393000" />
+      <workItem from="1670005664797" duration="260000" />
+      <workItem from="1670075091837" duration="11274000" />
+      <workItem from="1670354766169" duration="599000" />
+      <workItem from="1670412013817" duration="6000" />
+      <workItem from="1672765356584" duration="3661000" />
+      <workItem from="1672845059819" duration="3726000" />
+      <workItem from="1672849934013" duration="3664000" />
+      <workItem from="1672916813077" duration="12502000" />
+      <workItem from="1672995119345" duration="2365000" />
+      <workItem from="1673109658234" duration="4828000" />
+      <workItem from="1673175486501" duration="599000" />
+      <workItem from="1673383604694" duration="599000" />
+      <workItem from="1673467664103" duration="599000" />
+      <workItem from="1673596565996" duration="52000" />
+      <workItem from="1673596752550" duration="53000" />
+      <workItem from="1673652188852" duration="21741000" />
+      <workItem from="1673800164979" duration="387000" />
+      <workItem from="1674151949531" duration="5811000" />
+      <workItem from="1674506400474" duration="2749000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
